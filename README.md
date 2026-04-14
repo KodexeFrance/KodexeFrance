@@ -1,3 +1,14 @@
+## 👋 Hi, I’m Jérémy
+
+Founder of Kod.exe, a development studio specialized in **custom web applications** and **automation tools**.
+
+We design and build solutions that:
+- streamline internal processes  
+- reduce manual work  
+- improve performance and scalability
+
+**Kod.exe turn complex business needs into simple, efficient tools.**
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
